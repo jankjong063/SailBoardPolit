@@ -1,3 +1,28 @@
+# Sailboard Fin Control System
+
+## Project Description
+
+The **Sailboard Fin Control System** is an Arduino-based project designed to automatically control the sailboard's fin based on wind direction, speed, and GPS target location. The system integrates several components like wind meters, GPS sensors, motor control, and LoRa radio communication to adjust the fin and broadcast real-time position data.
+
+### Features
+- Real-time wind speed and direction monitoring via wind meter.
+- GPS integration to track and adjust the sailboard's direction towards a predefined target.
+- Motorized control of the sailboard's fin based on the wind and GPS data.
+- Radio communication (LoRa) to broadcast position updates.
+- Modular design with clean code architecture.
+
+## Source Code Structure
+
+SailBoardPolit/ ├── SailBoardPolit.ino # Main Arduino sketch
+                ├── WindMeter.h # Header file for WindMeter functionality
+                ├── WindMeter.cpp # Implementation file for WindMeter
+                ├── GPSModule.h # Header file for GPS module
+                ├── GPSModule.cpp # Implementation file for GPS module
+                ├── MotorControl.h # Header file for Motor control
+                ├── MotorControl.cpp # Implementation file for Motor control
+                ├── RadioModule.h # Header file for LoRa communication
+                ├── RadioModule.cpp # Implementation file for LoRa communication
+                └── postbuild.bat # Script to copy the .elf file post build
 
 ### Individual Source Code Explanation
 
