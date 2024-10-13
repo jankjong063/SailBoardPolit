@@ -1,0 +1,21 @@
+Version,Source Code Archive,Main Feature,Feature Description,Main Change Compare to Previous Version,What is Next
+v1.0,,Initial project setup,Basic project setup and standard sailboard control,Initial version with base functionality,Standard control implementation
+v2.0,SailBoardPolit_v2.0.zip,Standard sailboard control,Standard sailboard control functionality,Standard control features,Weather condition integration
+v3.0,SailBoardPolit_v3.0.zip,Weather Condition Integration,Adjusts fin behavior based on weather conditions,Weather-based fin adjustment added,Auto-Return to Home functionality
+v4.0,SailBoardPolit_v4.0.zip,Auto-Return to Home Functionality,Automatically returns sailboard to home location,Return to home functionality based on GPS,Battery monitoring and alerts
+v5.0,SailBoardPolit_v5.0.zip,Battery Monitoring and Alerts,Monitors battery and sends alerts if low,Battery monitoring added,Error detection and reporting
+v6.0,SailBoardPolit_v6.0.zip,Error Detection and Reporting,Detects and reports system errors,Error detection and reporting added,Solar power management
+v7.0,SailBoardPolit_v7.0.zip,Solar Power Management,Manages solar power for efficient operation,Solar power management added,Remote control via mobile app
+v8.0,SailBoardPolit_v8.0.zip,Remote Control via Mobile App,Allows remote control via Bluetooth-connected mobile app,Bluetooth mobile app control added,Obstacle avoidance system
+v9.0,SailBoardPolit_v9.0.zip,Obstacle Avoidance System,Avoids obstacles using ultrasonic sensors,Obstacle avoidance using ultrasonic sensors added,Multi-mode sailing (manual/auto)
+v10.0,SailBoardPolit_v10.0.zip,Multi-Mode Sailing (Manual/Auto),Switches between manual and auto-sailing modes,Switch between manual and auto-sailing modes,Fin health monitoring and calibration
+v11.0,SailBoardPolit_v11.0.zip,Fin Health Monitoring and Calibration,Monitors fin motor health and runs calibration routine,Motor health monitoring and calibration added,Safety zones and geofencing
+v12.0,SailBoardPolit_v12.0.zip,Safety Zones and Geofencing,Geofencing to restrict sailboard to predefined zones,Geofencing for predefined areas added,Autonomous route following
+v13.0,SailBoardPolit_v13.0.zip,Autonomous Route Following using GPS waypoints,Autonomously follows GPS waypoints,Autonomous GPS route following added,Real-time weather updates
+v14.0,SailBoardPolit_v14.0.zip,Real-Time Weather Updates from an Online Service,Fetches real-time weather data for fin adjustment,Weather API integration added for real-time updates,Adaptive sail control based on wind speed
+v15.0,SailBoardPolit_v15.0.zip,Adaptive Sail Control Based on Wind Speed,Adjusts fin behavior based on wind speed,Adaptive fin control based on wind speed added,Data logging and cloud sync
+v16.0,SailBoardPolit_v16.0.zip,Data Logging with Cloud Sync,Logs data and syncs with cloud storage,Cloud data logging and syncing added,Predictive maintenance alerts
+v17.0,SailBoardPolit_v17.0.zip,Predictive Maintenance Alerts,Detects and predicts maintenance needs based on performance data,Predictive maintenance alerts based on performance data added,Enhanced error logging with diagnostics
+v18.0,SailBoardPolit_v18.0.zip,Enhanced Error Logging with Diagnostics,Logs detailed error diagnostics and syncs with cloud,Enhanced error logging with detailed diagnostics added,Mobile notifications integration
+v19.0,SailBoardPolit_v19.0.zip,Integration with Mobile Notifications,Sends notifications to mobile devices via Bluetooth/Wi-Fi,Mobile notifications integration added,Full remote control with camera feed
+v20.0,SailBoardPolit_v20.0.zip,Full Remote Control with Camera Feed,Enables remote control with live camera feed,Camera feed for remote control added,Final version with camera and remote control
